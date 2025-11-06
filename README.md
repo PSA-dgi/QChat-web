@@ -6,14 +6,13 @@ A lightweight, **single-file** web chat room built with **PHP**, **HTML**, **CSS
 
 ## 🖥️Desktop base
 
-<img width="1919" height="985" alt="image" src="https://github.com/user-attachments/assets/9bfc49a2-95e4-48d6-9c3a-a668a4635d32" />
+<img width="1919" height="985" alt="Screenshot 2025-11-06 142123" src="https://github.com/user-attachments/assets/65a97a76-ae9a-443b-b6ee-7a23c7aa4f38" />
 
 ---
 
 ## 📱Mobile base
 
 ![-2147483648_-211304](https://github.com/user-attachments/assets/002dc590-8e90-4ef1-a49d-198f488b38d4)
-
 
 ---
 
