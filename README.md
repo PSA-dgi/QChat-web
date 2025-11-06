@@ -4,6 +4,18 @@ A lightweight, **single-file** web chat room built with **PHP**, **HTML**, **CSS
 
 ---
 
+## 🖥️Desktop base
+
+<img width="1919" height="985" alt="image" src="https://github.com/user-attachments/assets/9bfc49a2-95e4-48d6-9c3a-a668a4635d32" />
+
+---
+
+## 📱Mobile base
+
+<img src="https://github.com/user-attachments/assets/5bdb53b1-fbb3-4ab2-9fc8-4dafd930a9d3"  />
+
+---
+
 ## 🚀 Features
 
 - Real-time chat updates (polling with AJAX)  
